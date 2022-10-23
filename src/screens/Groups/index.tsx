@@ -1,5 +1,10 @@
 import React from "react";
+import { Container, Title } from "./styles";
 
 export function Groups() {
-  return <div>index</div>;
+  return (
+    <Container>
+      <Title>Groups</Title>
+    </Container>
+  );
 }
