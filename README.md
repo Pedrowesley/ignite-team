@@ -10,7 +10,7 @@ We'll follow a style guide to implement our theme in Styled Components to mainta
 
 Main App
 :-------------------------:
-![](https://github.com/Pedrowesley/Trello-clone-Angular/blob/main/src/assets/screenshots/main.PNG "Main")
+![](https://github.com/Pedrowesley/ignite-team/blob/main/Main.png "Main")
 
 ## Features
 
